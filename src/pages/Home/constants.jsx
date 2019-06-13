@@ -1,0 +1,2 @@
+export const CHANGE_DATA_TABLE = 'CHANGE_DATA_TABLE';
+export const DELETE_TABLE_ROW = 'DELETE_TABLE_ROW';
